@@ -12,7 +12,7 @@ webdriver-manager update
 ```
 webdriver-manager start
 ```
-### Launch the protractor and browser will pop up
+## Launch the protractor and browser will pop up
 ```
 protractor conf.js
 ```
