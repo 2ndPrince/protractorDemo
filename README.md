@@ -1,6 +1,7 @@
 # Protractor Frontend E2E testing
 
 ## Install protractor globally
+Install protractor if not installed (protractor --version)
 ```
 npm install -g protractor
 ```
