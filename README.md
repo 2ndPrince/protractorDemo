@@ -1,5 +1,10 @@
 # Protractor Frontend E2E testing
 
+## Quizlet flashcard
+'''
+https://quizlet.com/434573852/angularjs-packaging-and-testing-flash-cards/
+'''
+
 ## Install protractor globally
 Install protractor if not installed (protractor --version)
 ```
